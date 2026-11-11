@@ -1,0 +1,61 @@
+{
+  "name": "webtagons-space-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "author": {
+    "name": "Webtagons Indonesia",
+    "url": "https://www.instagram.com/webtagons/"
+  },
+  "description": "Webtagons Indonesia - Building Digital Solutions That Move Your Business Forward.",
+  "keywords": [
+    "webtagons",
+    "webtagons-indonesia",
+    "website-development",
+    "custom-web-application",
+    "company-profile",
+    "online-voting-system",
+    "learning-management-system",
+    "digital-platform",
+    "react",
+    "nextjs",
+    "3d-portfolio"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.6.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.40.0",
+    "maath": "^0.10.8",
+    "next": "16.2.9",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "react-icons": "^5.6.0",
+    "react-intersection-observer": "^10.0.3",
+    "tailwind-merge": "^3.6.0",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "@types/three": "^0.187.0",
+    "autoprefixer": "^10.5.0",
+    "eslint": "^10.4.1",
+    "eslint-config-next": "16.2.9",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^6"
+  },
+  "overrides": {
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3"
+  }
+}
